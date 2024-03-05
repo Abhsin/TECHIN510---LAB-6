@@ -8,3 +8,6 @@
 1. `cp .env.sample .env`
 1. Change the `.env` file to match your environment
 1. `streamlit run app.py`
+
+Link to Azure - abhi-techin510-lab6.azurewebsites.net
+
