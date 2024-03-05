@@ -11,3 +11,7 @@
 
 Link to Azure - abhi-techin510-lab6.azurewebsites.net
 
+Reflection - 
+1. Always create your .gitignore before your .env file!!!
+2. Make Prompts relevant
+3. Learnt how to make multiple pages on streamlit!
