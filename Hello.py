@@ -31,7 +31,7 @@ def response_generator():
         time.sleep(0.05)
 
 
-st.title("Basic Chat App with Streamlit Components")
+st.header("Check the TWO pages in the sidebar to see the different functionalities")
 
 # Initialize chat history
 if "messages" not in st.session_state:
