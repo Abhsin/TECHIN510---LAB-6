@@ -8,3 +8,10 @@
 1. `cp .env.sample .env`
 1. Change the `.env` file to match your environment
 1. `streamlit run app.py`
+
+Link to Azure - https://abhi-techin510-lab6.azurewebsites.net/
+
+Reflection - 
+1. Always create your .gitignore before your .env file!!!
+2. Make Prompts relevant
+3. Learnt how to make multiple pages on streamlit!
