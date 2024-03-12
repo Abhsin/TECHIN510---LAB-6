@@ -14,7 +14,7 @@ def generate_lyrics(prompt):
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": "You are a song lyrics generator."},
+            {"role": "system", "content": "You are a Taylor Swift Inspired song lyrics generator."},
             {"role": "user", "content": prompt}
         ]
     )
