@@ -15,3 +15,5 @@ Reflection -
 1. Always create your .gitignore before your .env file!!!
 2. Make Prompts relevant
 3. Learnt how to make multiple pages on streamlit!
+
+## Offers 2 Apps - Taylor Swift Style Lyrics Generator and A Custom Cover letter Generator
